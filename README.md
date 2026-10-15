@@ -1,6 +1,6 @@
 # Hi, I'm Denys Zhmachenkov 👋
 
-### Senior Software Engineer | .NET • Angular • Python • Cloud
+### Senior Software Engineer | .NET • Angular • Python
 
 Senior Software Engineer with extensive experience delivering integrated software solutions in .NET, Angular, and Python across multiple production environments. I design APIs, optimize MS SQL databases, and support cloud-hosted applications with a focus on uptime, performance, and clean integration between services and user interfaces.
 
